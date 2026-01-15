@@ -38,12 +38,6 @@ kstart5 krunner 2>/dev/null || kstart krunner &
 ## Run / Test
 
 - Press Alt+Space (or your KRunner shortcut) and type a filename to see results.
-- You can run any provided tests with CTest from the `build` directory:
-
-```bash
-cd build
-ctest -j2 --output-on-failure
-```
 
 ## Configuration
 
