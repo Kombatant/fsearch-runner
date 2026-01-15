@@ -1,6 +1,6 @@
 # fsearch-runner
 
-Lightweight KRunner plugin that queries an existing FSearch SQLite database to provide instant filename search inside KDE Plasma's KRunner.
+Lightweight KRunner plugin that queries an existing FSearch database to provide instant filename search inside KDE Plasma's KRunner.
 
 ## Features
 
