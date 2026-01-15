@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "github@kombatant.com",
+                "Name": "Pete Vagiakos"
+            }
+        ],
+        "Description": "Search files using FSearch database",
+        "Description[de]": "Dateien mit FSearch-Datenbank durchsuchen",
+        "EnabledByDefault": true,
+        "Icon": "system-search",
+        "License": "GPL-2.0+",
+        "Name": "FSearch Runner",
+        "Name[de]": "FSearch Runner",
+        "Version": "0.1",
+        "Website": "https://github.com/Kombatant/fsearch-runner"
+    },
+    "X-Plasma-Runner-Unique-Results": true,
+    "X-Plasma-Runner-Weak-Results": false
+}

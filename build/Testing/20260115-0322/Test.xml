@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260115-0322-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.2.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="Kronika"
+	OSRelease="6.18.5-1-MANJARO"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Sun, 11 Jan 2026 17:08:18 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="33"
+	ModelName="AMD Ryzen 9 5950X 16-Core Processor"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="32"
+	NumberOfPhysicalCPU="16"
+	TotalVirtualMemory="70616"
+	TotalPhysicalMemory="64194"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3671.06"
+	>
+	<Testing>
+		<StartDateTime>Jan 14 22:28 EST</StartDateTime>
+		<StartTestTime>1768447686</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jan 14 22:28 EST</EndDateTime>
+		<EndTestTime>1768447686</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

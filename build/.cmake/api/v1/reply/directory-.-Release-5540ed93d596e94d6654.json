@@ -1,0 +1,85 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"kcoreaddons_add_plugin"
+		],
+		"files" : 
+		[
+			"/usr/lib/cmake/KF6CoreAddons/KF6CoreAddonsMacros.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 39,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 68,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "plasma-runner-fsearch",
+			"destination" : "lib/qt6/plugins/kf6/krunner",
+			"paths" : 
+			[
+				"bin/kf6/krunner/krunner_fsearch.so"
+			],
+			"targetId" : "krunner_fsearch::@6890427a1f51a3e7e1df",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "plasma-runner-fsearch",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "krunner_fsearch::@6890427a1f51a3e7e1df",
+				"index" : 1
+			},
+			"destination" : "lib/qt6/plugins/kf6/krunner",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "plasma-runner-fsearch",
+			"destination" : "share/krunner/dbusplugins",
+			"paths" : 
+			[
+				"plasma-runner-fsearch.json"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

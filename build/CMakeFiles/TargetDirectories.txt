@@ -1,0 +1,12 @@
+/home/kombatant/Dev/scripts/fsearch-krunner/build/CMakeFiles/uninstall.dir
+/home/kombatant/Dev/scripts/fsearch-krunner/build/CMakeFiles/fetch-translations.dir
+/home/kombatant/Dev/scripts/fsearch-krunner/build/CMakeFiles/krunner_fsearch.dir
+/home/kombatant/Dev/scripts/fsearch-krunner/build/CMakeFiles/test.dir
+/home/kombatant/Dev/scripts/fsearch-krunner/build/CMakeFiles/edit_cache.dir
+/home/kombatant/Dev/scripts/fsearch-krunner/build/CMakeFiles/rebuild_cache.dir
+/home/kombatant/Dev/scripts/fsearch-krunner/build/CMakeFiles/list_install_components.dir
+/home/kombatant/Dev/scripts/fsearch-krunner/build/CMakeFiles/install.dir
+/home/kombatant/Dev/scripts/fsearch-krunner/build/CMakeFiles/install/local.dir
+/home/kombatant/Dev/scripts/fsearch-krunner/build/CMakeFiles/install/strip.dir
+/home/kombatant/Dev/scripts/fsearch-krunner/build/CMakeFiles/krunner_fsearch_autogen_timestamp_deps.dir
+/home/kombatant/Dev/scripts/fsearch-krunner/build/CMakeFiles/krunner_fsearch_autogen.dir
