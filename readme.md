@@ -1,5 +1,8 @@
 # fsearch-runner
 
+> [!IMPORTANT]  
+> Used various LLMs as a playground for code generation and assistance in forking/structuring/coding the project.
+
 Lightweight KRunner plugin that queries an existing FSearch database to provide instant filename search inside KDE Plasma's KRunner.
 
 ## Features
